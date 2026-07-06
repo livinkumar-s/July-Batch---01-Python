@@ -1,0 +1,55 @@
+Python:
+---------
+>> It is a high-level, interpretted, OOP programming language.
+
+Human Written code (print, input...)
+|
+|(Compilation)
+|
+Byte code (01 0101010001...) (common byte code)
+|
+|(interpretation)
+|
+Machine code 
+
+Extension of Python --> .py
+To execute Python file in terminal --> python filename.py
+To open terminal in VS code --> ctrl+~
+
+Print function
+-----------------
+To show data at the output.
+Ex: print(data)
+
+Input Function
+---------------
+To prompt data from user.
+Ex: input(explain)
+
+Syntax
+---------
+>> It is a set of rules.
+>> Python is case-sensitive.(a is not A)
+>> Indentation matters.(it is whitespace given at the starting of a line to define a block of code)
+
+Comments 
+----------
+>> Comments are skipped by python.
+>> To improve readability.
+Single line comment --> #
+Multi line comment --> ''' '''
+
+in VS code --> ctrl+/
+
+
+Datatypes 
+-----------
+to find datatype of an obj --> type(obj)
+int --> whole numbers Ex: 1,2,3 -8,-18.
+float --> Decimal Numbers.
+string --> Sequence of chars. '' ""
+boolean --> True/False
+
+
+Variable
+---------
