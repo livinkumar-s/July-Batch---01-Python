@@ -47,9 +47,34 @@ Datatypes
 to find datatype of an obj --> type(obj)
 int --> whole numbers Ex: 1,2,3 -8,-18.
 float --> Decimal Numbers.
+
 string --> Sequence of chars. '' ""
+"I'm from TN"
+"I said "Hi""
+I'm Livi. I said "Hi"
+
+Concatination --> str1 + str2
+
 boolean --> True/False
 
 
 Variable
 ---------
+>> It is a named memory that stores a data.
+varName=data
+
+Naming rules 
+---------------
+>> can contain letters, numbers, _
+>> cannot start with numerics.
+>> No reserved keywords.
+
+
+Type Casting 
+-------------
+>> Converting a datatype into another.
+
+int(obj)
+str(obj)
+float(obj)
+bool(obj)
