@@ -78,3 +78,82 @@ int(obj)
 str(obj)
 float(obj)
 bool(obj)
+
+Operators 
+--------------
+>> Operator is a symbol or keyword that performs an operation on values.
+
+Ex: 2 + 2 = 4
+
+Arithmetic 
+----------
++ --> addition 
+- --> Subtraction 
+* --> Multiplication 
+/ --> Division 
+//--> Floor Division 
+% --> Modulus (Reminder)
+**--> Exponentiation.
+BODMAS
+
+Comparison --> Boolean values
+--------------
+== equal
+!= not equal 
+< lesser than 
+> greater than 
+<= lesser than or equal 
+>= greater than or equal
+
+
+Logical Boolean --> Boolean 
+--------------
+and --> True --> Both are True. False --> Otherwise
+or --> True --> anyone or both are True. False --> Both are False.
+not --> inverts a Bool.
+
+Assignment
+--------------
+= assign
++= add assign 
+-= sub assign 
+*= mul assign 
+/= div 
+//= floor div 
+%= mod 
+**= expo
+
+Bitwise 
+--------------
+& --> and
+| --> or
+~ --> not. ~n=-(n+1)
+^ --> x-or (True --> not equal, False --> equal)
+<< --> left shift. num<<pos
+>> --> right shift
+
+2's comp --> 1's comp + 1
+
+Binary addition:
+------------------
+00 --> 0
+10, 01 --> 1
+11 --> 10
+111 --> 11
+
+
+Identity
+--------------
+Membership
+--------------
+
+0 --> 0
+1 --> 1
+2 --> 10
+3 --> 11
+4 --> 100
+5 --> 101
+6 --> 110
+99 --> 1100011
+
+
