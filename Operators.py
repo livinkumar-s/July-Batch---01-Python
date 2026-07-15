@@ -58,4 +58,5 @@
 # print(81<<3)
 # print(81>>2)
 
-print(~19)
+# print(~19)
+

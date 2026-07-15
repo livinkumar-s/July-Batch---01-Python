@@ -141,7 +141,6 @@ Binary addition:
 11 --> 10
 111 --> 11
 
-
 Identity
 --------------
 Membership
@@ -156,4 +155,54 @@ Membership
 6 --> 110
 99 --> 1100011
 
+Control Flow Statements
+------------------------
+Conditional Clause 
+-------------------
+>> python takes decision.
 
+if block 
+---------
+syntax:
+----------
+if condition:
+    block of code
+
+True --> executes the block. False --> skip the block of code
+
+elif block 
+------------
+syntax:
+---------
+elif condition:
+    block of code
+
+True --> executes the block. False --> skip the block of code
+
+else block
+----------
+syntax:
+----------
+else:
+    block of code
+
+True --> skip the block of code. False --> execute the code
+
+mark --> prompt 
+90 - 100 --> O 
+80 - 89 --> A+ 
+70 - 79 --> A 
+60 - 69 --> B
+50 - 59 --> C 
+0 - 49 --> Fail
+
+Nested If 
+-------------
+if cond1:
+    if cond2:
+        block of code
+
+Looping 
+-----------
+While --> Condition based loop.
+For --> Sequence Based Loops.
