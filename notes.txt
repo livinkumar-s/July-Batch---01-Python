@@ -155,6 +155,25 @@ Membership
 6 --> 110
 99 --> 1100011
 
+Sequence 
+-----------
+length of a sequence --> len(seq)
+>> Ordered collection of data. sequence can return its members 1 by 1.
+Ex: String, List, Tuple, Set, Dict, Range.....
+
+a="hello" --> 'e'
+
+Indexing --> index number starts with 0
+-----------
+seq[indNum] --> member 
+a[3] --> 'l'
+
+negative index---> starts with -1
+a[-1] --> 'w'
+
+Slicing 
+---------
+
 Control Flow Statements
 ------------------------
 Conditional Clause 
@@ -206,3 +225,34 @@ Looping
 -----------
 While --> Condition based loop.
 For --> Sequence Based Loops.
+
+>> Loops are used to execute ablock of code for multiple times..
+
+While (No of iteration is not known)
+---------
+syntax:
+----------
+while condition:
+    block of code
+
+as long as the contition is True it will execute the block of code.
+
+For Loop (iterating)(no of iteration is known)
+----------
+syntax:
+----------
+for varName in seq:
+    block of code
+
+Range  --> range sequence 
+-------
+range(len) --> range(5) ---> [0,1,2,3,4]
+range(start, end) --> range(4,44) --> [4,5,6....43]
+range(start, end, step) --> range(9,29,3) --> [9,12,15,18,21,24,27]
+
+Control Statements of loops
+-------------------------------
+break --> stop the loop.
+continue --> skips the current iteration.
+
+Nested loop

@@ -78,3 +78,6 @@
 #         print("Very Small")
 #     else:
 #         print("Small")
+
+inp=int(input())
+
