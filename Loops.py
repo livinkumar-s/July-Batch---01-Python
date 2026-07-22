@@ -75,3 +75,30 @@
 
 # print(a.index("w"))
 
+
+# for i in range(2):
+#     for j in range(2):
+#         for k in range(3):
+#             print("Hello..!")
+
+# print("Hello",end="") # break
+# print(1) #brek
+# print(1) #brek
+
+# print(1,2,3,4,5)
+
+# length=int(input("Enter the length: ")) #5
+
+# for i in range(1,6):
+#     for j in range(1,6):
+#         if i==j or i+j==6:
+#             print("* ",end="")
+#         else:
+#             print("  ",end="")   
+#     print()
+
+
+# for i in range(1,6):
+#     print("* "*i)
+
+# print("Hello"*4)
