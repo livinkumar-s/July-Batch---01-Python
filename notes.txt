@@ -328,7 +328,33 @@ v1,v2,v3=l1
 
 Set 
 ------
+>> {ele1,ele1......}
+>> Unordered. UnIndexed
+>> No Duplicates 
+>> Mutable
 
+In built methods 
+-------------------
+.add(ele)
+.remove(ele)
+.clear()
+
+.union(s1)
+.intersection(s1) &
+.difference(s1) -
 
 Dict 
 ----
+>> {key:val, key:val.....}
+>> It allows duplicate. key should be unique.
+>> Mutable 
+>> Ordered. not indexed
+
+In built builts 
+-----------------
+.pop(key)
+.clear()
+
+.keys()
+.values()
+.items()
