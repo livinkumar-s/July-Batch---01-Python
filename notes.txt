@@ -358,3 +358,47 @@ In built builts
 .keys()
 .values()
 .items()
+
+Functions 
+-------------
+>> it ia a resusable block of code that performs a specific task.
+
+In built Funtions --> print, input
+User defined functions --> def 
+
+syntax 
+---------
+def fnName():
+    block of code 
+
+calling ---> fnName()
+
+Parameters and Arguments 
+-------------------------
+P --> the variable created in function definition without values.
+A --> values passed to the Parameters.
+
+Positional Arguments
+--------------------
+>> Order matters.
+
+Keyword Arguments 
+-----------------
+>> Order does not matter.
+
+Default Parameter 
+-----------------------
+>> assigning default value to parameter.
+
+Variable length parameter 
+---------------------------
+*args --> n number of arguments.
+**karg --> n number of arguments with keyword.
+
+Return Keyword 
+---------------
+>> stop a function
+>> return a data to the caller.
+
+Scopes 
+------------
